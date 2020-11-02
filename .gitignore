@@ -1,0 +1,4 @@
+/node_modules
+/C:tmpnodejsnpm-cache
+# CocoaPods
+/ios/Pods/
